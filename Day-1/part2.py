@@ -1,5 +1,5 @@
 # Advent of Code 2023
-# Solution of day 1 puzzles
+# Solution of day 1 puzzle part 2
 #
 # Author Alonso Sayalero
 
